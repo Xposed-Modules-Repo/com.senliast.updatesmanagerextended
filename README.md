@@ -46,5 +46,4 @@ A: Yes
 Google Play, disable android app updates, disable android app auto updates, Google Play updates, android app updates blocker, block android app updates, Xposed, LSPosed, Root, Magisk
 
 ## Notice
-This GitHub repo is only a service repo for the LSposed repo, you can find the source code and main GitHub repo at:
-   https://github.com/Senliast/xposed-modules/tree/main/Updates_Manager_Extended
+This GitHub repo is only a service repo for the LSposed repo, you can find the source code and main GitHub repo at: https://github.com/Senliast/xposed-modules/tree/main/Updates_Manager_Extended
