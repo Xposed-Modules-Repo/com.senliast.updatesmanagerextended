@@ -22,7 +22,7 @@ The main reason for creating this module was aggressive auto-update policy of Go
 ## Installation
 1. Install the APK.
 2. Enable the module in LSPosed Manager, add to scope the following packages:
-   - Android system
+   - System Framework
 4. Reboot the device
 
 ## Uninstalling
